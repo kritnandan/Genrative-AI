@@ -1,7 +1,19 @@
 
-In this project, I delved into the realm of Generative AI, where I successfully implemented the Language Model (LLM) and Transformer. The project involved encoding and decoding mechanisms, along with the incorporation of a softmax function. Through this endeavor, we were able to effectively extract answers to questions posed within the dataset.
+In this project, I delved into the realm of Generative AI, where I successfully implemented the Large Language Model (LLM) and Transformer. The project involved encoding and decoding mechanisms, along with the incorporation of a softmax function. Through this endeavor, we were able to effectively extract answers to questions posed within the dataset.
 
 Moreover, the model demonstrated its versatility by facilitating language translation, seamlessly converting text from one language to another. This project not only honed my understanding of Generative AI but also showcased the practical application of LLM, transformer architecture, and associated functions in solving real-world problems.
+
+The Dataset consist of a patients current weight, weight loss, alcohal assumptions, smoking status, medication etc so whenever I ask questions regarding this from the model then on the basis of encoder and decoder give the answer of that particular question. 
+
+
+
+**Used Method for the Project**
+ 1. Tonkenization
+ 2. Data Preprocessing 
+ 3. Encoding
+ 4. Decoding
+ 5. Transformer
+    
 
 **link for deep learning** 
 
